@@ -118,19 +118,6 @@ python example.py --input hazy_image.png --output dehazed.png --model results/Be
 | O-HAZE | 2e-4 | 2 | 5000 | 100 |
 | Foggy Cityscapes | 4e-4 | 2 | 200 | 10 |
 
-## Citation
-
-If you find this code useful for your research, please cite our paper:
-
-```bibtex
-@article{wang2024dhfsn,
-  title={DHFSN: Dynamic Hierarchical Feature Selection Network for Single Image Dehazing},
-  author={Wang, Yinglong and Zhang, Shengdong and Wang, Yiting and Wan, Shaohua and Ren, Wenqi and Zhang, Xiaoqin},
-  journal={Pattern Recognition},
-  year={2024}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
