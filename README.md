@@ -12,9 +12,9 @@ This repository contains the official implementation of the paper "DHFSN: Dynami
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.8+
 - PyTorch 1.9.0+
-- CUDA 11.0+
+- CUDA 11.3+
 
 ### Install Dependencies
 
