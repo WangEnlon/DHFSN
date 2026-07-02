@@ -22,6 +22,14 @@ This repository contains the official implementation of the paper "DHFSN: Dynami
 pip install -r requirements.txt
 ```
 
+## Pretrained Models
+
+| Dataset | Download |
+|---------|----------|
+| ITS | [Google Drive](https://drive.google.com/file/d/1dy2essrSeJT_o7ZKayhsnEymaMRpNyM0/view?usp=drive_link) |
+
+Download the pretrained model and place it under `pretrained_models/`.
+
 ## Datasets
 
 We evaluate our method on both synthetic and real-world datasets:
